@@ -12,6 +12,10 @@
 //     console.log("hello to ",args[i]);
 // }
 
-const someValue = require("./math");
+// const someValue = require("./math");
 
-console.log(someValue);
+// console.log(someValue);
+
+const info = require("./Fruits");
+
+console.log(info);
